@@ -24,3 +24,4 @@ catkin_make
 
 ## step 2
 now if we run the command ``` ls ``` we see that we have two new folders (build and devel)
+<img width="519" alt="arm3" src="https://github.com/user-attachments/assets/1f094895-baec-4e33-93b1-a054e78d2610">
