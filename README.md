@@ -35,6 +35,10 @@ source ~/catkin_ws/devel/setup.bash
 
 last thing here is to run ``` gedit ~/.bashrc``` then this window will appears
 <img width="555" alt="arm3 3" src="https://github.com/user-attachments/assets/6d219958-dd28-4365-ab84-d33c64e84a96">
-in the end of this window at line 118 you can see the source line for our global ROS installation , so we will add this line  ```source ~/catkin_ws/devel/setup.bash``` (after) the global ROS installation ##### it's the line with orange high light
+
+in the end of this window at line 118 you can see the source line for our global ROS installation , 
+so we will add this line  ```source ~/catkin_ws/devel/setup.bash``` 
+(after) the global ROS installation
+##### it's the line with orange high light
 
 
