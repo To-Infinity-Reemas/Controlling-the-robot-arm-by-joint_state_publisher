@@ -25,3 +25,14 @@ catkin_make
 ## step 2
 now if we run the command ``` ls ``` we see that we have two new folders (build and devel)
 <img width="519" alt="arm3" src="https://github.com/user-attachments/assets/1f094895-baec-4e33-93b1-a054e78d2610">
+
+now we will apply commend called (setup.bash)
+we will need to source this (setup.bash) script if we want to be able to use the code that we have written in our catkin workspace.
+the commend :  
+```
+source ~/catkin_ws/devel/setup.bash
+```
+
+last thing here is to run ``` gedit ~/.bashrc``` then this window will appears
+
+
