@@ -22,3 +22,5 @@ catkin_make
 #### here a pictuer to show you the previous commend :
 <img width="519" alt="arm2" src="https://github.com/user-attachments/assets/35d8d5dd-8103-41b2-9acc-6a7b5b0227e5">
 
+## step 2
+now if we run the command ``` ls ``` we see that we have two new folders (build and devel)
