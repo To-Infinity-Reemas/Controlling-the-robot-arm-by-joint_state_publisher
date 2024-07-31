@@ -47,37 +47,44 @@ so we will add this line  ```source ~/catkin_ws/devel/setup.bash```
 ```
 sudo apt install git
 ```
-pic 
+<img width="519" alt="arm1" src="https://github.com/user-attachments/assets/6c13e7e9-bcee-41ff-999e-45dce010cba6">
 
 2-```git clone https://github.com/smart-methods/arduino_robot_arm```
-pic
+
+<img width="519" alt="arm2" src="https://github.com/user-attachments/assets/c92f0d61-f970-4731-971d-228ee55af83c">
 
 3- now go back to the (catkin_ws) using command ```cd ..``` ,then
 ```
 rosdep install --from-paths src --ignore-src -r -y
 ```
+<img width="519" alt="arm3" src="https://github.com/user-attachments/assets/2c4992b7-b3b2-4606-a1c6-44b403f8b31a">
 
 4- run the command ```sudo apt-get install ros-noetic-moveit```
+
+<img width="519" alt="arm4" src="https://github.com/user-attachments/assets/51586b4f-94f2-4664-b9b2-5085a19fefd7">
 
 5- run the command 
 ```
 sudo apt-get install ros-noetic-joint-state-publisher ros-noetic-joint-state-publisher-gui
 ```
+<img width="519" alt="arm5" src="https://github.com/user-attachments/assets/2069a090-4b0a-4ebf-b9f5-3866a47d76b3">
 
 6-
 ```
 sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
 ```
-
+<img width="519" alt="arm6" src="https://github.com/user-attachments/assets/4f12c7ad-b689-492e-aa8b-ebd4db3b6dfc">
 
 7-
 ```
 sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 ```
-
-
+<img width="519"alt="arm7" src="https://github.com/user-attachments/assets/45030f58-4f9c-46f3-91cc-3b3ced457c09">
 
 8-compile the package
 ```
 catkin_make
 ```
+<img width="519" alt="catkin8" src="https://github.com/user-attachments/assets/e7271fc6-9946-4b2d-a1bb-540e2415e029">
+
+## control
