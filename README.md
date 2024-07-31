@@ -40,5 +40,7 @@ in the end of this window at line 118 you can see the source line for our global
 so we will add this line  ```source ~/catkin_ws/devel/setup.bash``` 
 (after) the global ROS installation
 ##### "it's the line with orange high light"
+ now save and quit the file. you should have those two lines so you can see your global ros installation as kind of a first level, and then your custom workspace here have the second level. you need to source both the global ROS installation and your catkin workspace, so you can use your code with ROS functionalities.
 
+ ## Installing the package arduino_robot_arm
 
