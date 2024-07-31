@@ -43,4 +43,41 @@ so we will add this line  ```source ~/catkin_ws/devel/setup.bash```
  now save and quit the file. you should have those two lines so you can see your global ros installation as kind of a first level, and then your custom workspace here have the second level. you need to source both the global ROS installation and your catkin workspace, so you can use your code with ROS functionalities.
 
  ## Installing the package arduino_robot_arm
+1- start with  ```scd src``` then that commend :
+```
+sudo apt install git
+```
+pic 
 
+2-```git clone https://github.com/smart-methods/arduino_robot_arm```
+pic
+
+3- now go back to the (catkin_ws) using command ```cd ..``` ,then
+```
+rosdep install --from-paths src --ignore-src -r -y
+```
+
+4- run the command ```sudo apt-get install ros-noetic-moveit```
+
+5- run the command 
+```
+sudo apt-get install ros-noetic-joint-state-publisher ros-noetic-joint-state-publisher-gui
+```
+
+6-
+```
+sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
+```
+
+
+7-
+```
+sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
+```
+
+
+
+8-compile the package
+```
+catkin_make
+```
