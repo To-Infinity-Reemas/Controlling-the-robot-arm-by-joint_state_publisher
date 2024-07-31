@@ -20,5 +20,5 @@ now this command you should make sure that you are inside the catkin_ws folder (
 catkin_make
 ```
 #### here a pictuer to show you the previous commend :
-<img width="150" alt="arm2" src="https://github.com/user-attachments/assets/35d8d5dd-8103-41b2-9acc-6a7b5b0227e5">
+<img width="519" alt="arm2" src="https://github.com/user-attachments/assets/35d8d5dd-8103-41b2-9acc-6a7b5b0227e5">
 
