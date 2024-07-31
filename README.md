@@ -87,4 +87,13 @@ catkin_make
 ```
 <img width="519" alt="catkin8" src="https://github.com/user-attachments/assets/e7271fc6-9946-4b2d-a1bb-540e2415e029">
 
-## control
+## Controlling the motors
+
+#### now we can control the motors by this commend 
+- when you run this command the widows will apears
+
+```
+roslaunch robot_arm_pkg check_motors.launch
+```
+
+You can move it as you want
