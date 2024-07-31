@@ -39,6 +39,6 @@ last thing here is to run ``` gedit ~/.bashrc``` then this window will appears
 in the end of this window at line 118 you can see the source line for our global ROS installation , 
 so we will add this line  ```source ~/catkin_ws/devel/setup.bash``` 
 (after) the global ROS installation
-##### it's the line with orange high light
+##### "it's the line with orange high light"
 
 
