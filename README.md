@@ -79,7 +79,7 @@ sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
 ```
 sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 ```
-<img width="519"alt="arm7" src="https://github.com/user-attachments/assets/45030f58-4f9c-46f3-91cc-3b3ced457c09">
+<img width="519" alt="arm7" src="https://github.com/user-attachments/assets/9ad8ef75-781f-49e3-9cb0-64c4e61efce3">
 
 8-compile the package
 ```
