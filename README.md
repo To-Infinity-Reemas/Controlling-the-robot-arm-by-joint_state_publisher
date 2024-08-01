@@ -99,3 +99,21 @@ roslaunch robot_arm_pkg check_motors.launch
 
 ### You can move it as you want
 <img width="519" alt="hi wrist" src="https://github.com/user-attachments/assets/7c9cc58a-4978-436c-bd26-1541274aa058">
+
+
+## Gazebo
+by this commend the window will show to you 
+
+```
+roslaunch robot_arm_pkg check_motors_gazebo.launch
+```
+
+<img width="519" alt="gazebo" src="https://github.com/user-attachments/assets/cdd4a766-5727-4e86-bf62-f4a0d2b7e691">
+
+
+## MoveIt controlling
+```
+roslaunch moveit_pkg demo.launch
+```
+
+<img width="519" alt="riviz" src="https://github.com/user-attachments/assets/1000bf1c-4eea-4b9a-b4a9-e0c89bc5a3c3">
