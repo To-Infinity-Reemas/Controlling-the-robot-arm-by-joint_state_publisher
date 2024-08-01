@@ -95,5 +95,7 @@ catkin_make
 ```
 roslaunch robot_arm_pkg check_motors.launch
 ```
+<img width="519" alt="cont1" src="https://github.com/user-attachments/assets/93f2ea81-8a18-4803-9e84-6a694b92ed0e">
 
-You can move it as you want
+### You can move it as you want
+<img width="519" alt="hi wrist" src="https://github.com/user-attachments/assets/7c9cc58a-4978-436c-bd26-1541274aa058">
